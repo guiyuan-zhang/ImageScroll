@@ -1,0 +1,18 @@
+//
+//  Macro.pch
+//  ImageScroll
+//
+//  Created by zgy on 16/3/30.
+//  Copyright © 2016年 800best. All rights reserved.
+//
+
+#ifndef Macro_pch
+#define Macro_pch
+
+
+#define kWidth [UIScreen mainScreen].bounds.size.width
+#define kHeight [UIScreen mainScreen].bounds.size.height
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* Macro_pch */
